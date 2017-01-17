@@ -1,0 +1,50 @@
+<?php 
+header('Access-Control-Allow-Origin: https://plug.dj'); 
+header('Content-Type: text/json'); 
+?>
+
+{
+    "room": "BIG CITY BEATS - EDM",
+    "author": "Emanuell98FFM",
+    "icon": null,
+    "css": https://cdn.radiant.dj/rcs/rs_room.css,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": false,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": #42A5DC,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background":           null,
+        "playback":             null,
+        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":                 null,
+        "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
+        "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
+        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "subscriber":           null,
+        "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
