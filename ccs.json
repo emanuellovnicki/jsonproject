@@ -14,9 +14,9 @@
         "forceSmartVote": false
     },
     "ccc": {
-        "admin": #42A5DC,
+        "admin": "#42A5DC",
         "ambassador": null,
-        "host": #42A5DC,
+        "host": "#42A5DC",
         "cohost": null,
         "manager": null,
         "bouncer": null,
