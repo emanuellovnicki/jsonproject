@@ -2,7 +2,7 @@
     "room": "BIG CITY BEATS - EDM",
     "author": "Emanuell98FFM",
     "icon": "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
-    "css": "https://rawgit.com/TheStrangerGuy/EDT/master/EDT.css",
+    "css": "https://rawgit.com/emanuellovnicki/jsonproject/master/bcb.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -40,7 +40,7 @@
         "silversubscriber": null
     },
     "emotes": {
-    	"edt": "https://rawgit.com/TheStrangerGuy/EDT/master/images/EDT-Logo.png",
+    	"edt": "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
         "edtmini": "https://i.imgur.com/9JR4xqX.png",
     	"edt2": "https://i.imgur.com/DBtr6Tr.png",
     	"chuck": "https://i.imgur.com/nw0CkZA.gif",
