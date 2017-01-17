@@ -64,7 +64,7 @@ background: rgba(0,0,0,0.5) !important;
     color: #FFF !important;
 }
 .experience .xp .bar .progress, #footer-user .info .bar .progress, .experience .levels .level.earned.avatar .label {
-	background: #25b961 !important;
+	background: #00BFFF !important;
 }
 #chat-input {
 	background: rgba(40, 120, 60, 0.25) !important;
@@ -78,7 +78,7 @@ background: rgba(0,0,0,0.5) !important;
     color: #FFF !important;
 }
 #rcs-progress-container .bar {
-    background: #25b961 !important;
+    background: #00BFFF !important;
 }
 #user-lists .list.staff .group {
     border-top: 1px solid rgba(40, 120, 60, 1) !important;
@@ -137,5 +137,5 @@ background: rgba(30, 90, 45, 0.5) !important;
 background: #c42e3b !important;
 }
 #dj-button .left {
-background: #25b961 !important;
+background: #00BFFF !important;
 }
