@@ -1,13 +1,8 @@
-<?php 
-header('Access-Control-Allow-Origin: https://plug.dj'); 
-header('Content-Type: text/json'); 
-?>
-
 {
     "room": "BIG CITY BEATS - EDM",
     "author": "Emanuell98FFM",
     "icon": null,
-    "css": https://cdn.radiant.dj/rcs/rs_room.css,
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
