@@ -16,7 +16,7 @@
     "ccc": {
         "admin": #42A5DC,
         "ambassador": null,
-        "host": null,
+        "host": #42A5DC,
         "cohost": null,
         "manager": null,
         "bouncer": null,
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background":           null,
+        "background":           "https://cdn.radiant.dj/rcs/bg/4.png",
         "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
