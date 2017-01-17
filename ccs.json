@@ -2,7 +2,7 @@
     "room": "BIG CITY BEATS - EDM",
     "author": "Emanuell98FFM",
     "icon": "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
-    "css": null,
+    "css": "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
