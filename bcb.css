@@ -117,7 +117,7 @@ background: rgba(0, 191, 255, 1) !important;
 }
 /* Scrollbar */
 ::-webkit-scrollbar-thumb {
-    background: rgba(0, 191, 255, 1) !important;
+    background: rgb(40, 44, 53) !important;
 }
 .jspDrag {
     background: rgba(0, 191, 255, 1) !important;
@@ -129,9 +129,9 @@ background: rgba(0, 191, 255, 1) !important;
 
 #footer-user .back, #footer-user .signup {
     background: rgba(0, 191, 255, 1) !important;
-    -webkit-box-shadow: inset 0 2px 0 -1px rgba(0, 191, 255, 1) !important;
-    -moz-box-shadow: inset 0 2px 0 -1px rgba(0, 191, 255, 1) !important;
-    box-shadow: inset 0 2px 0 -1px rgba(0, 191, 255, 1) !important;
+    -webkit-box-shadow: inset 0 2px 0 -1px rgb(40, 44, 53) !important;
+    -moz-box-shadow: inset 0 2px 0 -1px rgb(40, 44, 53) !important;
+    box-shadow: inset 0 2px 0 -1px rgb(40, 44, 53) !important;
 }
 #dj-button.is-leave .left, #dj-button.is-quit .left {
 background: #00BFFF !important;
