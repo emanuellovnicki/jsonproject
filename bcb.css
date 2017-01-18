@@ -5,7 +5,7 @@
     left: 89px !important;
     color: #fff !important;
     font-weight: bold;
-    text-shadow: 2px 0px 11px, #dd00ff;
+    text-shadow: 2px 0px 11px, #00BFFF;
 }
 .app-header, #footer-user .info, #dashboard {
     background: rgba(0, 0, 0, 0.85) !important;
