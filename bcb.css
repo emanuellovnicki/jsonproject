@@ -33,7 +33,7 @@ background: rgba(0, 191, 255, 1) !important;
     background: rgba(0,0,0,0.5) !important;
 }
 .header-panel-button.selected, #footer-user .buttons .button.store:hover, #footer-user .buttons .button:hover, #app-menu .list .logout:hover {
-    background: rgba(0, 191, 255, 1) !important;
+    background: rgba(10,10,10) !important;
 }
 #app-menu .list .rcsunload:hover, #app-menu .list .item:hover {
     background: rgba(0, 191, 255, 1)!important;
