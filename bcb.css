@@ -8,7 +8,7 @@
     text-shadow: 2px 0px 11px, #00BFFF;
 }
 .app-header, #footer-user .info, #dashboard {
-    background: rgba(0, 191, 255, 1)) !important;
+    background: rgba(0, 191, 255, 1) !important;
 }
 #volume .slider {
     background-color: rgba(0, 0, 0, 0) !important;
